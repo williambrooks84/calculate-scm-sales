@@ -27,7 +27,7 @@ The scripts include `@updateURL` / `@downloadURL` referencing the raw GitHub fil
 
 ## Demonstration of the script in use
 <p align="center">
-  <img src="assets/in-use.png" alt="In use screenshot" width="700">
+  <img src="screenshots/in-use.png" alt="In use screenshot" width="700">
 </p>
 
 ---
